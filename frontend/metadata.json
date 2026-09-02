@@ -1,0 +1,6 @@
+{
+  "name": "InventoryPro AI",
+  "description": "Enterprise Inventory & Stock Management System (ERP) with AI forecasting, role-based access control, multi-warehouse tracking, and predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
